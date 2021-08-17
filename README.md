@@ -1,1 +1,3 @@
-# Contador
+Contador
+
+O contador parte de um numero inicial até chegar ao fim, com ele podemos aumentar a nossa "passada" fazendo com que a contagem pule de 2 em 2, 3 em 3... 
